@@ -1,5 +1,5 @@
 {
-  "name": "diwas-khatri-portfolio",
+  "name": "portfolio",
   "version": "1.0.0",
   "type": "module",
   "license": "MIT",
@@ -96,5 +96,25 @@
     "overrides": {
       "tailwindcss>nanoid": "3.3.7"
     }
+  },
+  "description": "Diwas Khatri personal portfolio: bots, automation, web apps, browser extensions, APIs, and AI/ML experiments.",
+  "homepage": "https://diwas.gamer.free",
+  "author": "Diwas Khatri",
+  "keywords": [
+    "diwas-khatri",
+    "portfolio",
+    "python",
+    "telegram-bots",
+    "web-automation",
+    "ai-ml",
+    "nepal",
+    "developer-portfolio"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DiwasKhatri07/Portfolio.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DiwasKhatri07/Portfolio/issues"
   }
 }

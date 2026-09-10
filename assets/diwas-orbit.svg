@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Diwas Khatri animated builder orbit</title>
+  <desc id="desc">An animated green orbit surrounding the initials DK and a small code cursor.</desc>
+  <defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#c8ed64"/><stop offset="1" stop-color="#496833"/></linearGradient></defs>
+  <rect width="720" height="420" rx="28" fill="#1d241b"/>
+  <g fill="none" stroke="url(#g)" stroke-width="2" opacity=".7">
+    <ellipse cx="360" cy="210" rx="250" ry="94" transform="rotate(-14 360 210)"><animateTransform attributeName="transform" type="rotate" from="-14 360 210" to="346 360 210" dur="14s" repeatCount="indefinite"/></ellipse>
+    <ellipse cx="360" cy="210" rx="220" ry="138" transform="rotate(36 360 210)"><animateTransform attributeName="transform" type="rotate" from="36 360 210" to="-324 360 210" dur="18s" repeatCount="indefinite"/></ellipse>
+  </g>
+  <circle cx="360" cy="210" r="78" fill="#f4f3ed"/><circle cx="360" cy="210" r="63" fill="#c8ed64"><animate attributeName="r" values="63;68;63" dur="3s" repeatCount="indefinite"/></circle>
+  <text x="360" y="228" text-anchor="middle" font-family="Arial,sans-serif" font-size="50" font-weight="800" fill="#1d241b">DK</text>
+  <g font-family="monospace" fill="#f4f3ed"><text x="54" y="72" font-size="16">diwas.py</text><text x="54" y="102" font-size="15" fill="#c8ed64">def build():</text><text x="54" y="128" font-size="14">  return "keep shipping"</text></g>
+  <circle cx="594" cy="90" r="7" fill="#c8ed64"><animate attributeName="opacity" values="1;.2;1" dur="1.8s" repeatCount="indefinite"/></circle>
+</svg>
