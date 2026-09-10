@@ -1,6 +1,7 @@
 # Diwas Khatri — Portfolio
 
 > A human-first, single-file portfolio for **Diwas Khatri**, a high-school builder from Nepal exploring bots, automation, web apps, browser extensions, APIs, AI/ML, and developer tooling.
+> A simple Proflio Code Of My Webiste
 
 [![Live website](https://img.shields.io/badge/Live%20website-diwas.gamer.free-496833?style=for-the-badge&logo=googlechrome&logoColor=white)](https://diwas.gamer.free)
 [![GitHub](https://img.shields.io/badge/GitHub-%40DiwasKhatri07-181717?style=for-the-badge&logo=github)](https://github.com/DiwasKhatri07)
